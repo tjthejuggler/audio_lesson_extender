@@ -1,0 +1,22 @@
+olmak - to be - no hint
+acımasız olmak - to be cruel - no hint
+acımasız olmak bir tercihtir - to be cruel is a choice - no hint
+olası - may - no hint
+gitmam olası - I may go - no hint
+mümkün - might - no hint
+Yarın gelmesi mümkün - she might come tomorrow - no hint
+etmek - render - no hint
+mundar etmeden - without rendering it useless - no hint
+koyun etini mundar etmeden hazırlayın - prepare the mutton without rendering it useless - no hint
+eylemek - command - no hint
+öyle eyledi- commanded so - no hint
+padişah böyle eyledi - the sultan has commanded so - no hint
+olmak - become - no hint
+arkadaş olur - become friends - no hint
+çocuklar hemen arkadaş olur - kids become friends quickly - no hint
+yapmak - do - no hint
+ödevi yapmak - to do homework - no hint
+öğrencinin görevi ödevi yapmak - a student's duty is to do homework - no hint
+kılmak - make - no hint
+belirgin kılıyordu - making him stand out - no hint
+saçı onu belirgin kılıyordu - his hair was making him stand out - no hint

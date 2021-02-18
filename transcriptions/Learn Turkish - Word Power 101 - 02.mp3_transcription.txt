@@ -1,0 +1,36 @@
+ad - name - no hint
+Senin adın - your name - no hint
+Senin adın ne - what's your name - no hint
+gün - day - no hint
+güneşli bir gün - a sunny day - no hint
+güneşli bir gün - it's a sunny day - no hint
+bir - one - no hint
+sadece bir gece - just one night - no hint
+sadece bir gece kalıyoruz - we're staying just one night - no hint
+zaman - time - no hint
+ne zaman - what time - no hint
+ne zaman döner - what time does he return - no hint
+yön - way - no hint
+o yöne - that way - no hint
+o yöne gitti - he went that way - no hint
+yıl - ear - no hint
+gelecek yok - next year - no hint
+gelecek yıl geri geliyorum - I'm coming back next year - no hint
+bugün - today - no hint
+bugün de - today is well - no hint
+bugün de güneşli olacak - today will be sunny as well - no hint
+dün - yesterday - no hint
+dün sabah - yesterday morning - no hint
+dün sabah geldik - we came yesterday morning - no hint
+yarın - tomorrow - no hint
+yarına yemek - dinner for tomorrow - no hint
+yarına yemek yapacağım - I'll cook dinner for tomorrow - no hint
+kendi - self - no hint
+kendine hakim olmak - self control - no hint
+kendine hakim olmak zor - self-control is hard - no hint
+yer - ground - no hint
+yere düşer - falls on the ground - no hint
+bebek yere düşer - the baby falls on the ground - no hint
+insan - human - no hint
+insan evrimi - human evolution - no hint
+binlerce yıldır insan evrimi devam eder - human evolution continues on for thousands of years - no hint

@@ -1,0 +1,22 @@
+eh - um - no hint
+eh aslında - actually - no hint
+Aslında ben bunu pek iyi bilmiyorum - actually I don't know this very well - no hint
+tabii - sure - no hint
+tabii olur - of course - no hint
+tabii olur onu yiyebilirsiniz - of course you can eat that - no hint
+ha - oh - no hint
+ha unutmadan - oh before I forget - no hint
+ha unutmadan şunu al - oh before I forget take this - no hint
+hm - hm - no hint
+hm şimdi - hm now - no hint
+hm şimdi nereye gitsek - hm where should we go now - no hint
+be - much - no hint
+çok yedim be - I ate so much - no hint
+ne çok yedin be - you ate so much - no hint
+öf - uh
+gene - again - no hint
+öf gene - uh again - no hint
+uf gene kaçtı - it escaped again - no hint
+ya - really - no hint
+çalıştım ya - I really studied - no hint
+çok çalıştım ya - I really studied too much - no hint

@@ -1,0 +1,30 @@
+hakkında - about - no hint
+kendin hakkında - about yourself - no hint
+kendin hakkında bahset - tell me about yourself - no hint
+sonra - after - no hint
+saat altıdan sonra - after six - no hint
+dükkan saat altıdan sonra kapanır - the store is closed after 6 - no hint
+önce - before - no hint
+öğleden önce - before noon - no hint
+lütfen öğleden önce gel - please come before noon - no hint
+yakınında - by - no hint
+okyanusun yakınında - by the ocean - no hint
+evimiz okyanusun yakınında - our home is by the ocean - no hint
+için - for - no hint
+anne ve baba niçin - for your parents - no hint
+bu hediye anne ve baba niçin - this present is for your parents - no hint
+içi - in - no hint
+evin içinde - in the house - no hint
+Kız kardeşim evin içinde - my sister is in the house - no hint
+içine - into - no hint
+evin içine - into the house - no hint
+köpek evin içinde koşuyor - the dog is running into the house - no hint
+üstü - on - no hint
+masanın üstünde - on the table - no hint
+ekmek masanın üstünde - the bread is on the table - no hint
+altı - under - no hint
+yatağın altında - under the bed - no hint
+kedi yatağın altında - the cat is under the bed - no hint
+ile - with - no hint
+benimle dans etmek - to dance with me - no hint
+benimle dans etmek ister misin - would you like to dance with me - no hint

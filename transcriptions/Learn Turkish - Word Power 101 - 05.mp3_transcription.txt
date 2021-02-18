@@ -1,0 +1,45 @@
+o - key - no hint
+onun yiyeceği yemek - the food he is going to eat - no hint
+onun yiyeceği yemek hazır - the food he is going to eat is ready - no hint
+buraya - hear - no hint
+buraya ne zaman - when here - no hint
+Buraya ne zaman geleceksin - when will you come here - no hint
+ben - I - no hint
+ben olmasam - if I don't exist - no hint
+Ben olmasam daha mutlu olursun - you will be happier if I don't exist - no hint
+o - it - no hint
+onu yere düşürmek - dropping it on the ground - no hint
+onu yere düşürmek kolay - dropping it on the ground is easy - no hint
+o - she - no hint
+ona yalan söylemek - lying to her - no hint
+ona yalan söylemek en kötüsü - lying to her is the worst - no hint
+şu - that - no hint
+şunu açıklamadan - without explaining that - no hint
+şunu açıklamadan hiçbir yere gidemez - he can't go anywhere without explaining that - no hint
+oraya - there - no hint
+şimdi oraya - now there - no hint
+şimdi oraya gideceğim - I'll go there now - no hint
+bunlar - these - no hint
+bunların kutusu - their box - no hint
+bunların kutusu kırmızı - their box is red - no hint
+onlar - they - no hint
+onlar gittiyse - if they're gone - no hint
+onlar gittiyse bende gideyim - if they are gone I should go as well - no hint
+bu - this - no hint
+bunu ödemeden - without paying this - no hint
+bunu ödemeden gidemeyiz - we can't go without paying this - no hint
+onlar - they - no hint
+onlar geri gelmezse - if they don't return - no hint
+onlar geri gelmezse yanarız - we're in trouble if they don't return - no hint
+biz - we - no hint
+Biz Kaçarken - when we were running away - no hint
+Biz Kaçarken Siz Neredeydiniz - where were you when we were running away - no hint
+sen - you - no hint
+sen gelmesende - even if you don't come - no hint
+Sen gelmesende olur - it will be fine even if you don't come - no hint
+o - it - no hint
+onu anlayan - who understands it - no hint
+onu anlayan sadece sensin - you're the only one who understands it - no hint
+ben - I - no hint
+Ben sadece - I am just - no hint
+Ben sadece fakir bir adamım - I am just a poor man - no hint

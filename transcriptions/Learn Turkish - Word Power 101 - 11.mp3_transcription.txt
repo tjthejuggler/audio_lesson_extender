@@ -1,0 +1,21 @@
+nasıl - how - no hint
+nasıl gidilir - how to go - no hint
+oraya nasıl gidilir - how did you get there - no hint
+ne - what - no hint
+nedir - what is - no hint
+Bu nedir - what is it - no hint
+ne zaman - when - no hint
+ne zaman almak - when to schedule - no hint
+randevunuzu ne zaman almak istersiniz - when would you like to schedule your appointment - no hint
+nerede - where - no hint
+nerede olursa olsun - no matter where he is - no hint
+nerede olursa olsun onu mutlaka bulacağım - no matter where he is I'll definitely find him - no hint
+hangi - which - no hint
+hangi kitabı - which book - no hint
+hangi kitabı okudun - which book did you read - no hint
+kim - whom - no hint
+kimden - from whom - no hint
+bunu kimden duydun - who did you hear this from - no hint
+neden - why - no hint
+neden kaçtığını - why he ran away - no hint
+onun neden kaçtığını sordum - I asked why she ran away - no hint

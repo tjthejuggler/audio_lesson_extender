@@ -1,16 +1,15 @@
-İyi ben - ??? - no hint
-iyi binnetice - ??? - no hint
-İvrindi Tatil Köyü - ??? - no hint
-Just - it's called a - no hint
-Custom name - ??? - no hint
-bu isteyince LCW online - ??? - no hint
-baby - sadece bucasia colors - no hint
-Baby Brain - ??? - no hint
-meb.gov rhin - kiamos - no hint
-Mouse - backyard ideas - no hint
-Maviş biyografi - ??? - no hint
-bir fos seri numaralı - design - no hint
-??? - ??? - no hint
+ile - even - no hint
+öğretmen bile - even the teacher - no hint
+öğretmen bile geç kaldı - even the teacher is late - no hint
+sadece - just - no hint
+sadece bir gece - just one night - no hint
+sadece bir gece kalıyoruz - we're staying just one night - no hint
+belki - Maybe - no hint
+belki Yağmur - maybe rain - no hint
+belki yağmur yağar - maybe it will rain - no hint
+en - most - no hint
+en güzel - most beautiful - no hint
+o dünyadaki en güzel şehir - it's the most beautiful city in the world - no hint
 değil - not - no hint
 benim değil - not mine - no hint
 Bu benim değil - it's not mine - no hint
@@ -35,6 +34,6 @@ Biz şimdi ayrılıyoruz - we're leaving now - no hint
 daha - more - no hint
 daha güzel - more beautiful - no hint
 bu ev daha güzel - this house is more beautiful - no hint
-??? - most - no hint
+en - most - no hint
 en utandırıcı - most embarrassing - no hint
 en utandırıcı anı bir sırdır - his most embarrassing memory is a secret - no hint

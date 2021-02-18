@@ -1,0 +1,54 @@
+tüm - all - no hint
+tüm dükkanlar - all shops - no hint
+tüm dükkanlar şimdi kapalı - all the shops are closed now - no hint
+herhangi - any - no hint
+herhangi bir kız - any girl - no hint
+herhangi bir kız olabilir - she could be any girl - no hint
+kötü - bad - no hint
+kötü haber - bad news - no hint
+bu kötü haber - this is bad news - no hint
+büyük - big - no hint
+büyük koltuk - big sofa - no hint
+büyük koltuk nerede - where's the big sofa - no hint
+ilk - first - no hint
+Benim İlk günüm - my first day - no hint
+burada benim ilk günüm - it's my first day here - no hint
+iyi - good - no hint
+iyi bir arkadaş - a good friend - no hint
+o iyi bir arkadaş - she's a good friend - no hint
+onun - her - no hint
+Onun telefonu - her phone - no hint
+Onun telefonu yine - her phone is new - no hint
+onun - his - no hint
+onun çantası - his bag - no hint
+onun çantası ağır - his bag is heavy - no hint
+benim - my - no hint
+Benim evim - my house - no hint
+Benim evim ırmağa yakın - my house is near the river - no hint
+yeni - new - no hint
+yeni bir saat - a new watch - no hint
+yeni bir saat istiyorum - I want a new watch - no hint
+hiçbir - no - no hint
+Hiçbir kitap - no book - no hint
+Hiçbir kitap çöpe atılmamalı - no book should be thrown away - no hint
+bizim - our - no hint
+bizim adetlerimiz - our traditions - no hint
+bizim adetlerimiz sıradışı - our traditions are extraordinary - no hint
+küçük - small - no hint
+küçük boy - small size - no hint
+bu kazak küçük boy - the sweater is small size - no hint
+onların - their - no hint
+onların kızı - their daughter - no hint
+onların kızı çok şeker - their daughter is so adorable - no hint
+senin - your - no hint
+Senin adın - your name - no hint
+Senin adın ne - what's your name - no hint
+bu - this - no hint
+bu hediye - this present - no hint
+bu hediye benim mi - is this present mine - no hint
+çok - many - no hint
+çok şey - many things - no hint
+yarın yapılacak çok şey yok - there aren't many things to be done tomorrow - no hint
+her - every - no hint
+her kış - every winter - no hint
+her kış kayak yapmaya giderler - they go skiing every winter - no hint
