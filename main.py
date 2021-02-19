@@ -64,7 +64,7 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files, mp3_nam
 		fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+mp3_name+']'])
 	return my_note, all_audio_files
 #add on to chunk names so they are more individualistic
-def create_anki(filename, chunks_foldername, bell, deckName): #get rid of the [0], [1] stuff
+def create_anki(filename, chunks_foldername, bell, deckName, chunk_filename_prefix): #get rid of the [0], [1] stuff
 	file = open( cwd+"/transcriptions/"+filename+"_transcription.txt", "r")
 	lines = file.readlines()
 	file.close()
@@ -74,7 +74,7 @@ def create_anki(filename, chunks_foldername, bell, deckName): #get rid of the [0
 			line = lines[i]
 			mp3_number = bell + ((i+1)*3)
 			tag = 'Turkish101'+filename.split(' - ')[2]
-			mp3_name = 'chunk'+str(mp3_number)+'.mp3'			
+			mp3_name = chunk_filename_prefix+'chunk'+str(mp3_number)+'.mp3'			
 			split_line = line.split(' - ')
 			foreign_word = split_line[0].strip('\n')
 			foreign_word = re.sub(r'[^\w\s]','',foreign_word)
@@ -129,14 +129,14 @@ for filename in os.listdir(cwd+'/sources'):
 	full_transcription = []
 	current_transcription_line = ''
 	#for chunk in chunks[1:]:
+	chunk_filename_prefix = 'wp101'+filename.split('.mp3')[0].split(' - ')[2]
 	for i, chunk in enumerate(chunks):
 		if createChunks:
-			chunk.export(cwd+'/'+chunks_foldername+"/chunk{0}.mp3".format(i), format="mp3")
-
+			chunk.export(cwd+'/'+chunks_foldername+"/"+chunk_filename_prefix+"chunk{0}.mp3".format(i), format="mp3")
 	chunk_count = len([name for name in os.listdir('.') if os.path.isfile(name)])
 	if makeMod or createTranscription:
 		for i in range(chunk_count):
-			sound = AudioSegment.from_mp3(cwd+'/'+chunks_foldername+"/chunk{0}.mp3".format(i))
+			sound = AudioSegment.from_mp3(cwd+'/'+chunks_foldername+"/"+chunk_filename_prefix+"chunk{0}.mp3".format(i))
 			sound.export("transcript.wav", format="wav")
 			AUDIO_FILE = "transcript.wav"
 			if i > bell:
@@ -176,4 +176,4 @@ for filename in os.listdir(cwd+'/sources'):
 	if makeMod:          
 		output_chunks.export(cwd+"/mods/"+filename+"_mod.mp3", format="mp3")
 	if make_anki:
-		create_anki(filename, chunks_foldername, bell, deckName)
+		create_anki(filename, chunks_foldername, bell, deckName, chunk_filename_prefix)
