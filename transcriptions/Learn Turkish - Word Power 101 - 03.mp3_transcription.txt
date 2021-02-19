@@ -2,7 +2,9 @@ olmak - to be - no hint
 acımasız olmak - to be cruel - no hint
 acımasız olmak bir tercihtir - to be cruel is a choice - no hint
 olası - may - no hint
+olası - may - no hint
 gitmam olası - I may go - no hint
+mümkün - might - no hint
 mümkün - might - no hint
 Yarın gelmesi mümkün - she might come tomorrow - no hint
 etmek - render - no hint
