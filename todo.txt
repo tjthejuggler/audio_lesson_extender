@@ -1,0 +1,3 @@
+-reverse everything to make lessons possible for turks
+-make an option to output random ordered lessons
+-make option to combine nay number of lessons

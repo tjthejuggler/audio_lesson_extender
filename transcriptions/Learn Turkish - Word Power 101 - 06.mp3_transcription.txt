@@ -4,12 +4,12 @@ müşteri ofise geliyor - the client is coming to the office - no hint
 içmek - drink - no hint
 kahve içerim - drink coffee - no hint
 her sabah kahve içerim - I drink coffee every morning - no hint
-yemek - ??? - no hint
+yemek - eat - no hint
 mutfakta yiyoruz - are eating in the kitchen - no hint
-Akşam yemeğini mutfakta yiyoruz - we are eating dinner in the kitchen - no hint
-satın almak - ??? - no hint
-satın aldım - Scott - no hint
-3 bilet satın aldım - I got three tickets - no hint
+akşam yemeğini mutfakta yiyoruz - we are eating dinner in the kitchen - no hint
+satın almak - buy - no hint
+satın aldım - i bought - no hint
+üç bilet satın aldım - I got three tickets - no hint
 vermek - give - no hint
 veriyorsun - are giving - no hint
 Bunu bana mı veriyorsun - are you giving this to me - no hint
@@ -19,22 +19,22 @@ dükkana gidiyor - she is going to the store - no hint
 sahip olmak - own - no hint
 Araba sahibi değilsin - don't have a nice car - no hint
 iyi bir araba sahibi değilsin - you don't have a nice car - no hint
-ilmek - no - no hint
+bilmek - know - no hint
 bilmiyorum - do not know - no hint
 onları bilmiyorum - I don't know them - no hint
 hoşlanmak - like - no hint
 tenisten hoşlanır - likes tennis - no hint
-penisten hoşlanır mısın - do you like tennis - no hint
+tenisten hoşlanır mısın - do you like tennis - no hint
 görünmek - look - no hint
 sıcak görünüyor - looks hot - no hint
 bugün dışarısı sıcak görünüyor - it looks hot outside today - no hint
 sevmek - love - no hint
-onu sever - Love's - no hint
+onu sever - loves - no hint
 herkes onu sever - everyone loves her - no hint
 yapmak - make - no hint
 yemek yapar - makes food - no hint
 her zaman saat beşte yemek yapar - he always makes dinner at 5 p.m. - no hint
-almak - Tate - no hint
+almak - take - no hint
 kitabı al - take the book - no hint
 raftaki kitabı al - take the book from the Shelf - no hint
 kullanmak - use - no hint
@@ -49,21 +49,21 @@ kadın cumartesi günü çalışmak zorunda - the woman has to work on Saturday 
 söylemek - say - no hint
 söylemek istediğin bir şey - something I want to say - no hint
 sana söylemek istediğim bir şey var - there's something I want to say to you - no hint
-görmek - ??? - no hint
+görmek - to see - no hint
 yakından göreyim - let me see up close - no hint
 sevdiğimi son bir kez yakından göreyim - let me see my beloved up close for the last time - no hint
-duymak - cheer - no hint
+duymak - to hear - no hint
 her duyduğunu tekrar etmek - repeating everything you hear - no hint
 her duyduğunu tekrar etmek iyi bir şey değildir - it's not a good thing to repeat everything you hear - no hint
 anlamak - understand - no hint
 hiç anlayamıyorum - cannot understand at all - no hint
 Bazen seni hiç anlayamıyorum - sometimes I cannot understand you at all - no hint
-demek - ??? - no hint
-dönen şeyler - things said - no hint
-Dün denen şeyler bugün Unutulur - things said yesterday are forgotten today - no hint
+demek - to say - no hint
+dener şeyler - things said - no hint
+Dün dener şeyler bugün unutulur - things said yesterday are forgotten today - no hint
 gibi - like - no hint
-İpek gibi - like Silk - no hint
-saçları İpek gibi - her hair is like Silk - no hint
+ipek gibi - like Silk - no hint
+saçları ipek gibi - her hair is like Silk - no hint
 almak - take - no hint
 ilaç almak - taking medicine - no hint
 bazen ilaç almak tehlikelidir - taking medicine is dangerous sometimes - no hint
@@ -76,15 +76,15 @@ Hayaletler gerçekten var - ghosts really exist - no hint
 istemek - want - no hint
 sadece istemek - just want - no hint
 Her şey sadece istemekle olmaz - not everything can be done with just wanting - no hint
-mak - go out - no hint
+çıkmak - go out - no hint
 gece dışarı çıkmak - go out at night - no hint
 gece dışarı çıkmak iyi bir şey değil - it's not a good thing to go out at night - no hint
 görmek - see - no hint
 bakmak ve görmek - looking and seeing - no hint
 bakmak ve görmek farklı şeylerdir - looking and seeing are different things - no hint
-olmak - B - no hint
+olmak - be - no hint
 daha iyi olur - it's better - no hint
-Bor yapsan daha iyi olur - it's better if you do Sports - no hint
+spor yapsan daha iyi olur - it's better if you do Sports - no hint
 değil - not - no hint
 mavi değil - not blue - no hint
-Kırmızı kalem istiyoruz mavi değil - we want red pencils not blue - no hint
+kırmızı kalem istiyoruz mavi değil - we want red pencils not blue - no hint

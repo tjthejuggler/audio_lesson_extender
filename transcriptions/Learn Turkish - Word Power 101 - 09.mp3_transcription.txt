@@ -14,7 +14,6 @@ be - much - no hint
 çok yedim be - I ate so much - no hint
 ne çok yedin be - you ate so much - no hint
 öf - uh
-gene - again - no hint
 öf gene - uh again - no hint
 uf gene kaçtı - it escaped again - no hint
 ya - really - no hint

@@ -2,7 +2,6 @@ from pydub import AudioSegment
 from pydub.silence import split_on_silence
 import speech_recognition as sr
 from os import path
-from pydub import AudioSegment
 import os
 import genanki
 import time
@@ -11,7 +10,8 @@ import re
 
 
 #import audiodiff
-#2,7,8,9,10,11 - needs checked
+#9 - needs checked
+#6 transcription needs edited
 #maybe language detection to find when the chime is
 bell = 2
 cwd = os.getcwd()
@@ -19,7 +19,7 @@ createTranscription = False
 makeMod = False
 createChunks = False
 onlyCertainLessons = True
-specific_foldernames = ['03chunks']
+specific_foldernames = ['06chunks']
 make_anki = True
 
 
@@ -89,6 +89,7 @@ def create_anki(filename, chunks_foldername, bell, deckName, chunk_filename_pref
 	create_anki_deck(deck, all_audio_files, deckName)
 
 for filename in os.listdir(cwd+'/sources'):
+	print(filename)
 	filename_num = filename.split(' - ')[2].split('.')[0]
 	deckName = 'wordpower101_'+filename_num
 	deck = genanki.Deck(round(time.time()), deckName)
@@ -130,7 +131,11 @@ for filename in os.listdir(cwd+'/sources'):
 	current_transcription_line = ''
 	#for chunk in chunks[1:]:
 	chunk_filename_prefix = 'wp101'+filename.split('.mp3')[0].split(' - ')[2]
-	for i, chunk in enumerate(chunks):
+	if chunk_filename_prefix.startswith('wp10110'):
+		chunk_filename_prefix = 'wp101010'
+	if chunk_filename_prefix.startswith('wp10111'):
+		chunk_filename_prefix = 'wp101011'		
+	for i, chunk in enumerate(chunks):	
 		if createChunks:
 			chunk.export(cwd+'/'+chunks_foldername+"/"+chunk_filename_prefix+"chunk{0}.mp3".format(i), format="mp3")
 	chunk_count = len([name for name in os.listdir('.') if os.path.isfile(name)])
