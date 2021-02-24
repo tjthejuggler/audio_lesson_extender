@@ -1,7 +1,7 @@
-#this uses existing chunks and either 
+#this uses existing chunks and transcriptions 
 #makes individual lessons either for tr or en speakers,
-#either in order or random
-#either inidividual lessons or all combined
+#in order or random
+#inidividual lessons or all combined
 #optional length
 #it also outputs transcripts it gets from current transcripts
 import random
@@ -11,11 +11,12 @@ from pydub.silence import split_on_silence
 
 cwd = os.getcwd()
 
-
 should_be_random = True
 should_be_individual_lessons = False #make this be a list of 
 max_words = 10000
 output_transcript = True
+words_to_remove = 200
+chunk_subdirs_nums_include = ['02','03','04','05','06','07','08','09','10','11']
 
 def add_silences_to_word_pair(first_word, second_word):
 	word_list_to_return = []
@@ -65,36 +66,37 @@ def main():
 			if 'chunks' in subdir:
 				print('subdir', subdir)
 				this_subdir_num = subdir.split(' - ')[2].split('chunks')[0]
-				print('this_subdir_num',this_subdir_num)
-				if this_subdir_num == '07':
-					this_folders_bell_number = 3
-				else:
-					this_folders_bell_number = 2
-				print(this_folders_bell_number)
-				this_path, this_dirs, this_files = next(os.walk(subdir))
-				file_count = len(this_files)
-				print(file_count)
-				this_folders_post_bell_file_count = file_count - (this_folders_bell_number+1)
-				print('this_folders_post_bell_file_count',this_folders_post_bell_file_count)
-				print('this_folders_post_bell_file_count/3',this_folders_post_bell_file_count/3)
-				for i in range (int(this_folders_post_bell_file_count/3)):
-					file_number = (this_folders_bell_number+1)+(i*3)
-					print('file_number', file_number)
-					output_audio_list_of_word_lists += [get_word_list(learner_type,this_subdir_num,file_number)]
-					full_transcript.append(get_transcript(learner_type,this_subdir_num,i))
-					if len(output_audio_list_of_word_lists) > 300:
-						break
-					print('export_audio',len(output_audio_list_of_word_lists))
+				if this_subdir_num in chunk_subdirs_nums_include:
+					print('this_subdir_num',this_subdir_num)
+					if this_subdir_num == '07':
+						this_folders_bell_number = 3
+					else:
+						this_folders_bell_number = 2
+					print(this_folders_bell_number)
+					this_path, this_dirs, this_files = next(os.walk(subdir))
+					file_count = len(this_files)
+					print(file_count)
+					this_folders_post_bell_file_count = file_count - (this_folders_bell_number+1)
+					print('this_folders_post_bell_file_count',this_folders_post_bell_file_count)
+					print('this_folders_post_bell_file_count/3',this_folders_post_bell_file_count/3)
+					for i in range (int(this_folders_post_bell_file_count/3)):
+						file_number = (this_folders_bell_number+1)+(i*3)
+						print('file_number', file_number)
+						output_audio_list_of_word_lists += [get_word_list(learner_type,this_subdir_num,file_number)]
+						full_transcript.append(get_transcript(learner_type,this_subdir_num,i))
+						if len(output_audio_list_of_word_lists) > 300:
+							break
+						print('export_audio',len(output_audio_list_of_word_lists))
 	audio_and_transcript_zipped = list(zip(output_audio_list_of_word_lists, full_transcript))
 	if should_be_random:
 		random.shuffle(audio_and_transcript_zipped)
 	output_audio_list_of_word_lists, full_transcript = zip(*audio_and_transcript_zipped)
 	print('len(output_audio_list_of_word_lists)', len(output_audio_list_of_word_lists))
 	rand_num = str(random.randint(0, 100000))
-	create_output_file(cwd+"/stranscriptions/"+rand_num+"_stranscription", full_transcript[:-160])
+	create_output_file(cwd+"/stranscriptions/"+rand_num+"_stranscription", full_transcript[:-words_to_remove])
 	print('transcript created')
 	export_audio = AudioSegment.silent(duration=2000)
-	for item in output_audio_list_of_word_lists[:-160]:
+	for item in output_audio_list_of_word_lists[:-words_to_remove]:
 		export_audio += item
 
 	print('export_audio', export_audio)
