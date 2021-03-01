@@ -3,10 +3,10 @@ onun yiyeceği yemek - the food he is going to eat - no hint
 onun yiyeceği yemek hazır - the food he is going to eat is ready - no hint
 buraya - hear - no hint
 buraya ne zaman - when here - no hint
-Buraya ne zaman geleceksin - when will you come here - no hint
+buraya ne zaman geleceksin - when will you come here - no hint
 ben - I - no hint
 ben olmasam - if I don't exist - no hint
-Ben olmasam daha mutlu olursun - you will be happier if I don't exist - no hint
+ben olmasam daha mutlu olursun - you will be happier if I don't exist - no hint
 o - it - no hint
 onu yere düşürmek - dropping it on the ground - no hint
 onu yere düşürmek kolay - dropping it on the ground is easy - no hint
@@ -32,8 +32,8 @@ onlar - they - no hint
 onlar geri gelmezse - if they don't return - no hint
 onlar geri gelmezse yanarız - we're in trouble if they don't return - no hint
 biz - we - no hint
-Biz Kaçarken - when we were running away - no hint
-Biz Kaçarken Siz Neredeydiniz - where were you when we were running away - no hint
+biz kaçarken - when we were running away - no hint
+biz kaçarken siz neredeydiniz - where were you when we were running away - no hint
 sen - you - no hint
 sen gelmesende - even if you don't come - no hint
 Sen gelmesende olur - it will be fine even if you don't come - no hint
@@ -41,5 +41,5 @@ o - it - no hint
 onu anlayan - who understands it - no hint
 onu anlayan sadece sensin - you're the only one who understands it - no hint
 ben - I - no hint
-Ben sadece - I am just - no hint
-Ben sadece fakir bir adamım - I am just a poor man - no hint
+ben sadece - I am just - no hint
+ben sadece fakir bir adamım - I am just a poor man - no hint

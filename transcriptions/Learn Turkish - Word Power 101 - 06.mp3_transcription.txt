@@ -17,7 +17,7 @@ gitmek - go - no hint
 dükkana gidiyor - is going to the store - no hint
 dükkana gidiyor - she is going to the store - no hint
 sahip olmak - own - no hint
-Araba sahibi değilsin - don't have a nice car - no hint
+araba sahibi değilsin - don't have a nice car - no hint
 iyi bir araba sahibi değilsin - you don't have a nice car - no hint
 bilmek - know - no hint
 bilmiyorum - do not know - no hint
@@ -60,7 +60,7 @@ hiç anlayamıyorum - cannot understand at all - no hint
 Bazen seni hiç anlayamıyorum - sometimes I cannot understand you at all - no hint
 demek - to say - no hint
 dener şeyler - things said - no hint
-Dün dener şeyler bugün unutulur - things said yesterday are forgotten today - no hint
+dün dener şeyler bugün unutulur - things said yesterday are forgotten today - no hint
 gibi - like - no hint
 ipek gibi - like Silk - no hint
 saçları ipek gibi - her hair is like Silk - no hint
@@ -72,10 +72,10 @@ para vermek - giving money - no hint
 sorun para vermek değil - giving money isn't the problem - no hint
 var - exist - no hint
 gerçekten var - really exist - no hint
-Hayaletler gerçekten var - ghosts really exist - no hint
+hayaletler gerçekten var - ghosts really exist - no hint
 istemek - want - no hint
 sadece istemek - just want - no hint
-Her şey sadece istemekle olmaz - not everything can be done with just wanting - no hint
+her şey sadece istemekle olmaz - not everything can be done with just wanting - no hint
 çıkmak - go out - no hint
 gece dışarı çıkmak - go out at night - no hint
 gece dışarı çıkmak iyi bir şey değil - it's not a good thing to go out at night - no hint

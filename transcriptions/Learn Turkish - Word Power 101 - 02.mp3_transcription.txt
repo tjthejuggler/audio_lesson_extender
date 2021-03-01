@@ -14,7 +14,7 @@ yön - way - no hint
 o yöne - that way - no hint
 o yöne gitti - he went that way - no hint
 yıl - year - no hint
-gelecek yok - next year - no hint
+gelecek yıl - next year - no hint
 gelecek yıl geri geliyorum - I'm coming back next year - no hint
 bugün - today - no hint
 bugün de - today is well - no hint

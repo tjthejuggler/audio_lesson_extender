@@ -5,14 +5,14 @@ sadece - just - no hint
 sadece bir gece - just one night - no hint
 sadece bir gece kalıyoruz - we're staying just one night - no hint
 belki - Maybe - no hint
-belki Yağmur - maybe rain - no hint
+belki yağmur - maybe rain - no hint
 belki yağmur yağar - maybe it will rain - no hint
 en - most - no hint
 en güzel - most beautiful - no hint
 o dünyadaki en güzel şehir - it's the most beautiful city in the world - no hint
 değil - not - no hint
 benim değil - not mine - no hint
-Bu benim değil - it's not mine - no hint
+bu benim değil - it's not mine - no hint
 sık sık - often - no hint
 sık sık balık avlamaya - Austin fishing - no hint
 sık sık balık avlamaya çıkarım - I often go fishing - no hint
@@ -30,7 +30,7 @@ iyi oynuyor - is playing well - no hint
 takım iyi oynuyor - the team is playing well - no hint
 şimdi - now - no hint
 şimdi ayrılıyoruz - we are leaving now - no hint
-Biz şimdi ayrılıyoruz - we're leaving now - no hint
+biz şimdi ayrılıyoruz - we're leaving now - no hint
 daha - more - no hint
 daha güzel - more beautiful - no hint
 bu ev daha güzel - this house is more beautiful - no hint

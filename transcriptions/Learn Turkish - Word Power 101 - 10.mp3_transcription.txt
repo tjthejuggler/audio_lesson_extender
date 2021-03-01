@@ -15,7 +15,7 @@ anne ve baba niçin - for your parents - no hint
 bu hediye anne ve baba niçin - this present is for your parents - no hint
 içi - in - no hint
 evin içinde - in the house - no hint
-Kız kardeşim evin içinde - my sister is in the house - no hint
+kız kardeşim evin içinde - my sister is in the house - no hint
 içine - into - no hint
 evin içine - into the house - no hint
 köpek evin içinde koşuyor - the dog is running into the house - no hint

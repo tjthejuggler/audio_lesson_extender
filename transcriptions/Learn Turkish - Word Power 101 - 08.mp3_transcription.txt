@@ -2,8 +2,8 @@ ve - and - no hint
 bu ve şu - this and that - no hint
 bu ve şu lütfen - listen that please - no hint
 çünkü - because - no hint
-Çünkü gözlerim bozuk - because my eyes are bad - no hint
-gözlük takıyorum Çünkü gözlerim bozuk - I'm wearing glasses because my eyes are bad - no hint
+çünkü gözlerim bozuk - because my eyes are bad - no hint
+gözlük takıyorum çünkü gözlerim bozuk - I'm wearing glasses because my eyes are bad - no hint
 ama - but - no hint
 ama pasta sevmem - but I don't like cake - no hint
 çikolatayı severim ama pasta sevmem - I like chocolate but I don't like cake - no hint
@@ -14,7 +14,7 @@ veya - or - no hint
 kırmızı veya beyaz - red or white - no hint
 bir bardak kırmızı veya beyaz şarap içer misin - will you drink a glass of red or white wine - no hint
 zaman - when - no hint
-Güneşli olduğu zaman - when it's sunny - no hint
+güneşli olduğu zaman - when it's sunny - no hint
 hava güneşli olduğu zaman mutluyum - I'm happy when it's sunny - no hint
 ve - and - no hint
 abim ve ablam - my older brother and sister - no hint
@@ -26,8 +26,8 @@ ile - with - no hint
 krema ile - with cream - no hint
 elmalı pie krema ile servis edilir - apple pie served with cream - no hint
 sonra - after - no hint
-Akşam yemeğinden sonra - after dinner - no hint
-Akşam yemeğinden sonra kahve içer - she drinks coffee after dinner - no hint
+akşam yemeğinden sonra - after dinner - no hint
+akşam yemeğinden sonra kahve içer - she drinks coffee after dinner - no hint
 kadar - until - no hint
 sabaha kadar - until morning - no hint
 sabaha kadar vaktim var - I have time until morning - no hint
