@@ -1,0 +1,104 @@
+ve - and - no hint
+bu ve şu - this and that - no hint
+bu ve şu lütfen - listen that please - no hint
+çünkü - because - no hint
+çünkü gözlerim bozuk - because my eyes are bad - no hint
+gözlük takıyorum çünkü gözlerim bozuk - I'm wearing glasses because my eyes are bad - no hint
+ama - but - no hint
+ama pasta sevmem - but I don't like cake - no hint
+çikolatayı severim ama pasta sevmem - I like chocolate but I don't like cake - no hint
+eğer - if - no hint
+eğer gidersen - if you go - no hint
+eğer gidersen ben de giderim - if you go I'll go - no hint
+veya - or - no hint
+kırmızı veya beyaz - red or white - no hint
+bir bardak kırmızı veya beyaz şarap içer misin - will you drink a glass of red or white wine - no hint
+zaman - when - no hint
+güneşli olduğu zaman - when it's sunny - no hint
+hava güneşli olduğu zaman mutluyum - I'm happy when it's sunny - no hint
+ve - and - no hint
+abim ve ablam - my older brother and sister - no hint
+abim ve ablam doktordur - my brother and sisters are doctors - no hint
+için - for - no hint
+çocuklarım için - for my children - no hint
+çocuklarım için her şeyi yaparım - I'll do everything for my children - no hint
+ile - with - no hint
+krema ile - with cream - no hint
+elmalı pie krema ile servis edilir - apple pie served with cream - no hint
+sonra - after - no hint
+akşam yemeğinden sonra - after dinner - no hint
+akşam yemeğinden sonra kahve içer - she drinks coffee after dinner - no hint
+kadar - until - no hint
+sabaha kadar - until morning - no hint
+sabaha kadar vaktim var - I have time until morning - no hint
+ile - even - no hint
+öğretmen bile - even the teacher - no hint
+öğretmen bile geç kaldı - even the teacher is late - no hint
+sadece - just - no hint
+sadece bir gece - just one night - no hint
+sadece bir gece kalıyoruz - we're staying just one night - no hint
+belki - Maybe - no hint
+belki yağmur - maybe rain - no hint
+belki yağmur yağar - maybe it will rain - no hint
+en - most - no hint
+en güzel - most beautiful - no hint
+o dünyadaki en güzel şehir - it's the most beautiful city in the world - no hint
+değil - not - no hint
+benim değil - not mine - no hint
+bu benim değil - it's not mine - no hint
+sık sık - often - no hint
+sık sık balık avlamaya - Austin fishing - no hint
+sık sık balık avlamaya çıkarım - I often go fishing - no hint
+gerçekten - really - no hint
+gerçekten soğuk - really cold - no hint
+geceleyin gerçekten soğuk - it's really cold at night - no hint
+yukarı - up - no hint
+yukarı çıkıyor - is going up - no hint
+asansör yukarı çıkıyor - the elevator is going up - no hint
+çok - very - no hint
+çok karanlık - very dark - no hint
+bu gece çok karanlık - it's very dark tonight - no hint
+iyi - well - no hint
+iyi oynuyor - is playing well - no hint
+takım iyi oynuyor - the team is playing well - no hint
+şimdi - now - no hint
+şimdi ayrılıyoruz - we are leaving now - no hint
+biz şimdi ayrılıyoruz - we're leaving now - no hint
+daha - more - no hint
+daha güzel - more beautiful - no hint
+bu ev daha güzel - this house is more beautiful - no hint
+en - most - no hint
+en utandırıcı - most embarrassing - no hint
+en utandırıcı anı bir sırdır - his most embarrassing memory is a secret - no hint
+nasıl - how - no hint
+nasıl gidilir - how to go - no hint
+oraya nasıl gidilir - how did you get there - no hint
+ne - what - no hint
+nedir - what is - no hint
+Bu nedir - what is it - no hint
+ne zaman - when - no hint
+ne zaman almak - when to schedule - no hint
+randevunuzu ne zaman almak istersiniz - when would you like to schedule your appointment - no hint
+nerede - where - no hint
+nerede olursa olsun - no matter where he is - no hint
+nerede olursa olsun onu mutlaka bulacağım - no matter where he is I'll definitely find him - no hint
+hangi - which - no hint
+hangi kitabı - which book - no hint
+hangi kitabı okudun - which book did you read - no hint
+kim - whom - no hint
+kimden - from whom - no hint
+bunu kimden duydun - who did you hear this from - no hint
+neden - why - no hint
+neden kaçtığını - why he ran away - no hint
+onun neden kaçtığını sordum - I asked why she ran away - no hint
+tüm - all - no hint
+tüm dükkanlar - all shops - no hint
+tüm dükkanlar şimdi kapalı - all the shops are closed now - no hint
+herhangi - any - no hint
+herhangi bir kız - any girl - no hint
+herhangi bir kız olabilir - she could be any girl - no hint
+kötü - bad - no hint
+kötü haber - bad news - no hint
+bu kötü haber - this is bad news - no hint
+büyük - big - no hint
+büyük koltuk - big sofa - no hint

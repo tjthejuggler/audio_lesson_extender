@@ -8,7 +8,7 @@ yemek - eat - no hint
 mutfakta yiyoruz - are eating in the kitchen - no hint
 akşam yemeğini mutfakta yiyoruz - we are eating dinner in the kitchen - no hint
 satın almak - buy - no hint
-satın aldım - i bought - no hint
+satın aldım - got - no hint
 üç bilet satın aldım - I got three tickets - no hint
 vermek - give - no hint
 veriyorsun - are giving - no hint

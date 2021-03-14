@@ -1,5 +1,5 @@
 eh - um - no hint
-eh aslında - actually - no hint
+eh aslında - um actually - no hint
 aslında ben bunu pek iyi bilmiyorum - actually I don't know this very well - no hint
 tabii - sure - no hint
 tabii olur - of course - no hint
@@ -11,7 +11,7 @@ hm - hm - no hint
 hm şimdi - hm now - no hint
 hm şimdi nereye gitsek - hm where should we go now - no hint
 be - much - no hint
-çok yedim be - I ate so much - no hint
+çok yedim be - ate so much - no hint
 ne çok yedin be - you ate so much - no hint
 öf - uh
 öf gene - uh again - no hint

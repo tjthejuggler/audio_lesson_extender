@@ -11,8 +11,8 @@ from pydub.silence import split_on_silence
 
 cwd = os.getcwd()
 
-should_be_random = True
-should_be_individual_lessons = False #make this be a list of 
+should_be_random = False
+should_be_individual_lessons = True #make this be a list of 
 max_words = 10000
 output_transcript = True
 words_to_remove = 200
@@ -22,7 +22,11 @@ def add_silences_to_word_pair(first_word, second_word):
 	word_list_to_return = []
 	long_silence = AudioSegment.silent(duration=second_word.duration_seconds*2000)
 	short_silence = AudioSegment.silent(duration=second_word.duration_seconds*1000)
-	word_list_to_return = first_word + long_silence + second_word + short_silence + second_word + long_silence + second_word + short_silence + second_word
+	if second_word.duration_seconds < 3:
+		word_list_to_return = first_word + short_silence + first_word + long_silence + second_word + short_silence + second_word
+	else:
+		word_list_to_return = first_word + short_silence + first_word + long_silence + second_word + short_silence + second_word + long_silence + second_word + short_silence + second_word
+	
 	return word_list_to_return
 
 def get_word_list(learner_type,this_subdir_num,file_number):
@@ -87,21 +91,30 @@ def main():
 						if len(output_audio_list_of_word_lists) > 300:
 							break
 						print('export_audio',len(output_audio_list_of_word_lists))
-	audio_and_transcript_zipped = list(zip(output_audio_list_of_word_lists, full_transcript))
-	if should_be_random:
-		random.shuffle(audio_and_transcript_zipped)
-	output_audio_list_of_word_lists, full_transcript = zip(*audio_and_transcript_zipped)
-	print('len(output_audio_list_of_word_lists)', len(output_audio_list_of_word_lists))
-	rand_num = str(random.randint(0, 100000))
-	create_output_file(cwd+"/stranscriptions/"+rand_num+"_stranscription", full_transcript[:-words_to_remove])
-	print('transcript created')
-	export_audio = AudioSegment.silent(duration=2000)
-	for item in output_audio_list_of_word_lists[:-words_to_remove]:
-		export_audio += item
+					if should_be_individual_lessons:
+						export_audio = AudioSegment.silent(duration=2000)
+						for item in output_audio_list_of_word_lists:
+							export_audio += item
 
-	print('export_audio', export_audio)
-	export_audio.export(cwd+"/smods/"+rand_num+"_smod.mp3", format="mp3")
+						print('export_audio', export_audio)
+						export_audio.export(cwd+"/shxmods/"+this_subdir_num+"_shxmod.mp3", format="mp3")
+						output_audio_list_of_word_lists = []
+	if should_be_individual_lessons == False:
+		audio_and_transcript_zipped = list(zip(output_audio_list_of_word_lists, full_transcript))
+		if should_be_random:
+			random.shuffle(audio_and_transcript_zipped)
+		output_audio_list_of_word_lists, full_transcript = zip(*audio_and_transcript_zipped)
+		print('len(output_audio_list_of_word_lists)', len(output_audio_list_of_word_lists))
+		rand_num = str(random.randint(0, 100000))
+		create_output_file(cwd+"/shtranscriptions/"+rand_num+"_shtranscription", full_transcript[:-words_to_remove])
+		print('transcript created')
+		export_audio = AudioSegment.silent(duration=2000)
+		for item in output_audio_list_of_word_lists[:-words_to_remove]:
+			export_audio += item
 
-for i in range(5):
-	main()
+		print('export_audio', export_audio)
+		export_audio.export(cwd+"/shmods/"+rand_num+"_shmod.mp3", format="mp3")
+
+#for i in range(5):
+main()
 	
